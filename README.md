@@ -6,6 +6,7 @@ Universal Platine 230V für Homematic 868Mhz
  * 1x FTDI Adapter (wird nur zum Flashen benötigt)
  * 1x https://www.reichelt.de/my/1524957
 
+[Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
 
 [Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
